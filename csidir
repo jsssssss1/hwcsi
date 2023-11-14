@@ -1,0 +1,9 @@
+k8s.gcr.io/sig-storage/livenessprobe:v2.5.0
+k8s.gcr.io/sig-storage/csi-resizer:v1.4.0
+k8s.gcr.io/sig-storage/csi-node-driverregistrar:v2.3.0
+k8s.gcr.io/sig-storage/csi-snapshotter:v4.2.1
+k8s.gcr.io/sig-storage/snapshotcontroller:v4.2.1
+k8s.gcr.io/sig-storage/csi-provisioner:v3.0.0
+quay.io/k8scsi/csiprovisioner:v1.4.0
+k8s.gcr.io/sig-storage/csi-attacher:v3.4.0
+quay.io/k8scsi/csiattacher:v1.2.1
